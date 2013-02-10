@@ -1,4 +1,4 @@
 Types-of-errors
 ===============
 
-Different types of errors
+Open the files up in Dreamweaver and correct the errors in the code  (Debug the code)
